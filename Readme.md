@@ -9,7 +9,7 @@ CARACTERISTICAS OU IDEIAS:
 
 CONTEXTUALIZANDO:
 
--NOME Da Barbearia: W.L.j
+-NOME Da Barbearia: L.W
 -objetivo:
 -Publico alvo: pessoas de alto padrao
 -Ideia de funcionamento: abertura da pagina é uma logo nossa
