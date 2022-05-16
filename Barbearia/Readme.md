@@ -7,12 +7,6 @@ SITE DE CARRO DE LUXO.
 
 CARACTERISTICAS OU IDEIAS:
 
-https://www.lamborghini.com/en-en=
-https://www.ferrari.com/en-BR= principal
-https://www.porsche.com/brazil/pt/=
-https://www.rolls-roycemotorcars.com/en_GB/home.html=
-https://www.jaguarbrasil.com.br/offers-and-finance/ofertas/oferta-jaguar-f-type.html?
-
 CONTEXTUALIZANDO:
 
 -NOME DO SITE: W.L.J
